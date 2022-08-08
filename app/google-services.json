@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133040687948",
+    "project_id": "authenticator-firebase-4b1ff",
+    "storage_bucket": "authenticator-firebase-4b1ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133040687948:android:c73b6fbe45677220d45de9",
+        "android_client_info": {
+          "package_name": "com.example.autenticador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133040687948-rghr6ppk3hoggpvfjmg222ch9t4gb0ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBAIS4zMnhI7OXZEZRV1sM3EQIJzyscLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133040687948-rghr6ppk3hoggpvfjmg222ch9t4gb0ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
